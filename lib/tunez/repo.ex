@@ -17,6 +17,6 @@ defmodule Tunez.Repo do
 
   @impl true
   def min_pg_version do
-    %Version{major: 16, minor: 8, patch: 0}
+    %Version{major: 14, minor: 8, patch: 0}
   end
 end
